@@ -27,8 +27,10 @@ React version can also be specified as follows:
 
 3.  Initate react native project
 `create-react-app my-app`
-    This installs Development server, Webpack, Babel and few other tools.
-    If you want to customize the production environment use:
+    
+
+This installs Development server, Webpack, Babel and few other tools.
+If you want to customize the production environment use:
     `npm run eject`
 
 4.  cd in to the project directody and starting the project
