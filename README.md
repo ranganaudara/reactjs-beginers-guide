@@ -49,5 +49,17 @@ If you want to customize the production environment use:
 **Random Points**
 
 - Babel -  JS compiler (compile js to a code that browsers can understand)
-- A function expression always defines its own > this  object. Arrow function expressions still have the > this object of the enclosing context. Don’t get confused when using > this  in an arrow function.
+- A function expression always defines its own **this**  object. Arrow function expressions still have the **this** object of the enclosing context. Don’t get confused when using **this**  in an arrow function.
+
+- JSX mixes up HTML and JavaScript to define the output of React components in their render methods
+- ReactDOM.render() is an entry point for a React application to hook React into the DOM
+- variable declarations with const and let can be used for specific use cases use const over let in React applications
+- arrow functions can be used to keep your functions concise
+- classes are used to define components in React by extending them
+
+
+
+
+
+
 
