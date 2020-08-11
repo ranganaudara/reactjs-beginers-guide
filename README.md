@@ -48,4 +48,6 @@ If you want to customize the production environment use:
 
 **Random Points**
 
-Babel -  JS compiler (compile js to a code that browsers can understand)
+- Babel -  JS compiler (compile js to a code that browsers can understand)
+- A function expression always defines its own >this>  object. Arrow function expressions still have the >this> object of the enclosing context. Don’t get confused when using > this>  in an arrow function.
+
